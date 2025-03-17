@@ -1,0 +1,174 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/man1.png"
+      },
+      "image": "/assets/post1.webp",
+      "caption": "Beautiful sunset view 🌅. #sunrise",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "rose",
+          "comment": "Wow! This looks amazing! 🔥"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is the place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "peter_lee",
+        "profile_pic": "/assets/man2.jpg"
+      },
+      "image": "/assets/post2.jpg",
+      "caption": "Live in painting 🎨. #rivernature",
+      "likes": 838,
+      "comments": [
+        {
+          "user": "",
+          "comment": "Nature’s own piece of art. 🎨🦋"
+        },
+        {
+          "user": "jacky_92",
+          "comment": "Awesome work! 😍"
+        }
+      ],
+      "timestamp": "2025-03-14T14:30:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "itz_me_jiju",
+        "profile_pic": "/assets/jerry.jpg"
+      },
+      "image": "/assets/butterfly.jpg",
+      "caption": "Let your dreams take flight like a butterfly🌿🦋. #butterfly",
+      "likes": 920,
+      "comments": [
+        {
+          "user": "call_me_happy",
+          "comment": "Wow! This looks amazing! 🔥"
+        },
+        {
+          "user": "demo_kid",
+          "comment": "Wings of freedom. 🦋"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "demon_kid",
+        "profile_pic": "/assets/butterfly.jpg"
+      },
+      "image": "/assets/jerry.jpg",
+      "caption": "Small but unstoppable! 🐭💨. #Rat#jerry",
+      "likes": 500,
+      "comments": [
+        {
+          "user": "call_me_happy",
+          "comment": "Chasing dreams... and cheese! 🏃‍♂️🧀"
+        },
+        {
+          "user": "demo_kid",
+          "comment": "Master of mischief, legend of escapes! 🏃💨"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "nature_Queen",
+    "profile_pic": "/assets/post2.jpg"
+  },
+  "suggestion": [
+    {
+      "id": "101",
+      "username": "demon_kid",
+      "profile_pic": "/assets/man1.png"
+    },
+    {
+      "id": "102",
+      "username": "peter_lee",
+      "profile_pic": "/assets/man2.jpg"
+    },
+    {
+      "id": "103",
+      "username": "itz_me_jiju",
+      "profile_pic": "/assets/jerry.jpg"
+    },
+    {
+      "id": "104",
+      "username": "call_me_jiju",
+      "profile_pic": "/assets/butterfly.jpg"
+    },
+    {
+      "id": "105",
+      "username": "nature_love",
+      "profile_pic": "/assets/post2.jpg"
+    },
+    {
+      "id": "106",
+      "username": "happy_gwrl",
+      "profile_pic": "/assets/perfume2.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "/assets/man1.png"
+      },
+      "image": "/assets/img1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "peter_lee",
+        "profile_pic": "/assets/man2.jpg"
+      },
+      "image": "/assets/img2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "itz_me_jiju",
+        "profile_pic": "/assets/post2.jpg"
+      },
+      "image": "/assets/img3.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "101",
+      "username": "demon_kid",
+      "profile_pic": "/assets/man1.png"
+    },
+    {
+      "id": "102",
+      "username": "peter_lee",
+      "profile_pic": "/assets/man2.jpg"
+    },
+    {
+      "id": "106",
+      "username": "happy_gwrl"
+    }
+  ]
+}
