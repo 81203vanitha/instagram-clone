@@ -5,6 +5,7 @@ import App from './App.jsx'
 import { createBrowserRouter,RouterProvider } from 'react-router-dom'
 import ViewStory from './ViewStory.jsx'
 import Profile from './Profile.jsx'
+import App from './components/App';
 
 
 
